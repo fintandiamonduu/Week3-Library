@@ -30,7 +30,7 @@
     static void Main(string[] args)
     {
         Book book = new Book("C# for begginers", "Bill Gates", "123456", 200);
-        Book book2 = new Book("Visual studio 2022", "Microsoft", "134556", 70);
+        Book book2 = new Book("Visual studio 2022=2", "Microsoft", "134556", 70);
 
         // output book info to console 
         book.DisplayInfo();      
